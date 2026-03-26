@@ -23,19 +23,14 @@ O projeto está organizado de forma modular para facilitar a manutenção e evol
 
 - **Modelos/Dados**: Representação das entidades (animais, habitats, funcionários, etc.)
 - **Lógica de Negócio**: Regras e operações do sistema
-- **Interface (se aplicável)**: Interação com o utilizador
-- **Persistência**: Armazenamento e gestão de dados
 
 ---
 
 ## Tecnologias Utilizadas
 
-> (Ajusta conforme o teu projeto real)
-
-- Linguagem: (ex: Java / C# / Python)
-- Base de Dados: (ex: SQL Server / MySQL / SQLite)
+- Linguagem: C# 
 - Paradigmas: Programação Orientada a Objetos
-- Ferramentas: (ex: Visual Studio / IntelliJ / VS Code)
+- Ferramentas: Visual Studio
 
 ---
 
